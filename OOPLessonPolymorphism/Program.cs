@@ -1,13 +1,10 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
+﻿
 public class Program
 {
     public static void Main(string[] args)
     {
         Console.WriteLine(Summa(2, 3, 4, 5 ,5, 5, 8, 0, 89));
         Program program = new Program();
-
-        
     }
 
     public static int Summa(params int[] nums)
