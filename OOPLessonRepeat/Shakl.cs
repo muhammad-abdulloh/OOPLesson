@@ -14,8 +14,6 @@ namespace OOPLessonRepeat
 
         static Shakl() { Console.WriteLine("bu static constructor"); }
 
-
-
         ~Shakl()
         {
             Console.WriteLine("wwwwwwww");
