@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OOPLesson
+﻿namespace OOPLesson
 {
     internal class Car
     {
         public Car()
         {
-            
+
         }
 
         public Car(string name, string color, string speed = "220 km/h")

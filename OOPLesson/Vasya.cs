@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OOPLesson
+﻿namespace OOPLesson
 {
-    internal class Vasya: Bobom
+    internal class Vasya : Bobom
     {
         int a = 4;
         int b = 5;
@@ -27,6 +21,6 @@ namespace OOPLesson
 
             Console.WriteLine("Random number: {0}", randomNumber);
         }
-        
+
     }
 }

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OOPLessonPolymorphism
+﻿namespace OOPLessonPolymorphism
 {
     internal abstract class Shape
     {
@@ -18,6 +12,6 @@ namespace OOPLessonPolymorphism
         // abstract kalit so'zini qo'yadigan bo'sam
         // bu methodni qayta yoishim majburiy bo'ladi
         public abstract int Perimeter(int p);
-        
+
     }
 }

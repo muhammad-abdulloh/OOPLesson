@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OOPLessonTwo
+﻿namespace OOPLessonTwo
 {
     /// <summary>
     /// manashu joyda turgan internal shu acess modification deyiladi

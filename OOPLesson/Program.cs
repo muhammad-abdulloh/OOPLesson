@@ -1,7 +1,4 @@
-﻿using OOPLesson;
-using OOPLessonTwo;
-
-public class Program 
+﻿public class Program
 {
     public static void Main(string[] args)
     {

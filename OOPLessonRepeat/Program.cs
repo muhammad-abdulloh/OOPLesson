@@ -1,9 +1,7 @@
 ﻿
 using OOPLessonRepeat;
-using System.Reflection.Emit;
-using System.Runtime.CompilerServices;
 
-public class Program 
+public class Program
 {
 
     int number = 0;
